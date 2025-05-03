@@ -12,3 +12,4 @@ commands.txt
 hosts_ip.txt
 multipass/haproxy_*.cfg
 multipass/cloud-init-*.yaml
+versions.tf
